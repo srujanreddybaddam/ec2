@@ -13,6 +13,6 @@ variable "subnet_id" {
   description = "subnet-id"
 }
 
-variable "security_groups" {
+variable "sg_id" {
   description = "group-ids"
 }
